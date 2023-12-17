@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer utilities {
+  .custom-text-shadow {
+    text-shadow : 0px 0px 35.158px rgba(255,255,255, 0.35);
+  }
+}

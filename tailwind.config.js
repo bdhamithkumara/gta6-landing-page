@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily :{
+        PricedownBl : ['var(--font-PricedownBl)'],
         Inter : ['var(--font-inter)'],
       }
     },

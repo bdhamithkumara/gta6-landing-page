@@ -10,6 +10,9 @@ module.exports = {
       fontFamily :{
         PricedownBl : ['var(--font-PricedownBl)'],
         Inter : ['var(--font-inter)'],
+      },
+      screens : {
+        xl : '1440px',
       }
     },
   },

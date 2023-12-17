@@ -1,5 +1,5 @@
 "use client"
-import Image from 'next/image'
+import Image from "next/legacy/image"
 import dynamic from 'next/dynamic'
 import {VIIcon,BgImage,BuyIcon,DiscoveryIcon,Xbox,PlayStation,Steam} from '../public/images/index'
 

@@ -2,7 +2,7 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
 import PlayButton from '../../public/images/playbutton.svg'
-import Image from 'next/image'
+import Image from "next/legacy/image"
 
 const MyVideoPlayer = () => {
 
